@@ -1,3 +1,6 @@
 a.txt
 호구당
-zzzz
+zzz
+
+
+z
